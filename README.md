@@ -1,0 +1,1 @@
+A simple React starter using webpack v4. As an alternative to create-react-app, which can add extra overhead
